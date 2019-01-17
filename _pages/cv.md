@@ -36,15 +36,5 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
+* Rana Azzam, Rabeb Mizouni, Hadi Otrok, Anis Ouali, Shakti Singh, “GRS: A Group-Based Recruitment System for Mobile Crowd Sensing”, In Journal of Network and Computer Applications, Volume 72, 2016, Pages 38-50, ISSN 1084-8045, https://doi.org/10.1016/j.jnca.2016.06.015 
+* Rana Azzam, Rabeb Mizouni, Hadi Otrok, Shakti Singh, Anis Ouali, “A Stability-Based Group Recruitment System for Continuous Mobile Crowd Sensing”, Computer Communications, Available online 31 January 2018, ISSN 0140-3664, https://doi.org/10.1016/j.comcom.2018.01.012. 
