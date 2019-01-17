@@ -30,6 +30,8 @@ Skills
 * Deep Learning
 * OpenCV
 * Robotic Perception 
+* SLAM
+* Optimization
 
 
 Publications
